@@ -19,6 +19,11 @@ http://dx.doi.org/10.17632/5y9wdsg2zt.2
 <p align="center">
 <a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/np.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/np.png" align="center"></a>
 </p>
+### Examples of Prediction
+
+<p align="center">
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/predict1.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/predict1.png" align="center"></a>
+</p>
 
 ## MobileNetV2 architecture
 MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. It is based on an inverted residual structure where the residual connections are between the bottleneck layers.
