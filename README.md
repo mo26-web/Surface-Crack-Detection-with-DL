@@ -26,3 +26,11 @@ MobileNetV2 is a convolutional neural network architecture that seeks to perform
 <p align="center">
 <a href="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_10.37.14_PM.png"><img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_10.37.14_PM.png" align="center" width="400" height="400" ></a>
 </p>
+
+### Results
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
