@@ -23,7 +23,7 @@ http://dx.doi.org/10.17632/5y9wdsg2zt.2
 ### Examples of Prediction
 
 <p align="center">
-<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/predict1.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/predict1.png" align="center"></a>
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/predict2.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/predict2.png" align="center"></a>
 </p>
 
 ## MobileNetV2 architecture
