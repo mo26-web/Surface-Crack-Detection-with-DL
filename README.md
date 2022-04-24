@@ -10,7 +10,11 @@ This dataset is taken from the website Mendeley Data - Crack Detection, contribu
 > Özgenel, Çağlar Fırat (2019), “Concrete Crack Images for Classification”, Mendeley Data, v2
 http://dx.doi.org/10.17632/5y9wdsg2zt.2
 
-
 <p align="center">
 <a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/data1.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/data1.png" align="center"></a>
 </p>
+## Number of samples
+<p align="center">
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/np.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/np.png align="center"></a>
+</p>
+  
