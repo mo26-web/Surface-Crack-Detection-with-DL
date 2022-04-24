@@ -44,7 +44,7 @@ Test Loss| Test Accuracy
 --- | ---
 0.04124 | 99.83%
 
-## VGG 16 architecture
+## VGG16 architecture
 VGG16 is a convolution neural net (CNN ) architecture which was used to win ILSVR(Imagenet) competition in 2014. It is considered to be one of the excellent vision model architecture till date. The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
 
 <p align="center">
@@ -73,8 +73,9 @@ DenseNet (Dense Convolutional Network) is an architecture that focuses on making
 
 <p align="center">
 <a href="https://www.researchgate.net/profile/Noha-Radwan-3/publication/334170752/figure/fig5/AS:776225345785857@1562077952441/A-schematic-illustration-of-the-DenseNet-121-architecture-82.png"><img src="https://www.researchgate.net/profile/Noha-Radwan-3/publication/334170752/figure/fig5/AS:776225345785857@1562077952441/A-schematic-illustration-of-the-DenseNet-121-architecture-82.png" align="center" width="520" ></a>
-  
-  ### Results
+</p>
+ 
+### Results
 
 <p align="center">
 <a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion4.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion4.png" align="center"></a>
@@ -90,4 +91,25 @@ DenseNet (Dense Convolutional Network) is an architecture that focuses on making
 Test Loss| Test Accuracy
 --- | ---
 0.01813 | 99.52%
+
+## VGG19 architecture
+VGG-19 architecture is very much similar to VGG-16. We have 3 additional convolutional layers for the VGG-16 network.
+<p align="center">
+<a href="https://www.researchgate.net/profile/Clifford-Yang/publication/325137356/figure/fig2/AS:670371271413777@1536840374533/llustration-of-the-network-architecture-of-VGG-19-model-conv-means-convolution-FC-means.jpg"><img src="https://www.researchgate.net/profile/Clifford-Yang/publication/325137356/figure/fig2/AS:670371271413777@1536840374533/llustration-of-the-network-architecture-of-VGG-19-model-conv-means-convolution-FC-means.jpg" align="center" ></a>
 </p>
+
+### Results
+<p align="center">
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion5.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion5.png" align="center"></a>
+</p>
+
+
+|               | precision     |recall  |f1-score |support|
+| ------------- |:-------------:| :-----: |:-----:   |-----:   |
+|  NEGATIVE     | 1.00          | 1.00   |  1.00   |  6082 |
+| POSITIVE      | 1.00          |  1.00  |  1.00   |    5918   |
+| accuracy      | 1.00          |  1.00  |  1.00     |    12000   |
+
+Test Loss| Test Accuracy
+--- | ---
+0.01353 | 99.63%
