@@ -13,3 +13,6 @@ http://dx.doi.org/10.17632/5y9wdsg2zt.2
 <p align="center">
 <a href="https://pasteboard.co/QYwm8DypOP33.png"><img src="https://pasteboard.co/QYwm8DypOP33.png" align="center"></a>
 </p>
+<p align="center">
+<a href="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png"><img src="https://github.com/mo26-web/Face-mask-detection_DETR/blob/main/images/22.png" align="center"></a>
+</p>
