@@ -43,4 +43,3 @@ MobileNetV2 is a convolutional neural network architecture that seeks to perform
 Markdown| Pretty
 --- | ---
 *Still*  | **nicely**
-1  | 3
