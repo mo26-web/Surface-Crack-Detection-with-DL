@@ -24,5 +24,5 @@ http://dx.doi.org/10.17632/5y9wdsg2zt.2
 MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. It is based on an inverted residual structure where the residual connections are between the bottleneck layers.
 
 <p align="center">
-<a href="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_10.37.14_PM.png"><img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_10.37.14_PM.png" align="center"></a>
+<a href="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_10.37.14_PM.png"><img src="https://production-media.paperswithcode.com/methods/Screen_Shot_2020-06-06_at_10.37.14_PM.png" align="center" width="400" height="400" ></a>
 </p>
