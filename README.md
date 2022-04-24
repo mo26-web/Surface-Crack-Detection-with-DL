@@ -11,5 +11,5 @@ This dataset is taken from the website Mendeley Data - Crack Detection, contribu
 http://dx.doi.org/10.17632/5y9wdsg2zt.2
 
 <p align="center">
-<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/data1.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/data1.png" align="center"></a>
+<a href="https://pasteboard.co/QYwm8DypOP33.png"><img src="https://pasteboard.co/QYwm8DypOP33.png" align="center"></a>
 </p>
