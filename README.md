@@ -28,7 +28,12 @@ MobileNetV2 is a convolutional neural network architecture that seeks to perform
 </p>
 
 ### Results
-| Tables        | Are           | Cool  |
+
+<p align="center">
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion2.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion2.png" align="center"></a>
+</p>
+
+| precision     | recall        |f1-score|
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
