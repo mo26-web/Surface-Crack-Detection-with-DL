@@ -39,3 +39,6 @@ MobileNetV2 is a convolutional neural network architecture that seeks to perform
 |  NEGATIVE     | 1.00          | 1.00   |  1.00   |  6082 |
 | POSITIVE      | 1.00          |  1.00  |  1.00   |    5918   |
 | accuracy      | 1.00          |  1.00  |  1.00     |    12000   |
+
+|Test loss      |0.04124|
+|Test Accuracy  |99.83%|
