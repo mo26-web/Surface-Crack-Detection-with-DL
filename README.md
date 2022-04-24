@@ -43,3 +43,27 @@ MobileNetV2 is a convolutional neural network architecture that seeks to perform
 Test Loss| Test Accuracy
 --- | ---
 0.04124 | 99.83%
+
+## VGG 16 architecture
+VGG16 is a convolution neural net (CNN ) architecture which was used to win ILSVR(Imagenet) competition in 2014. It is considered to be one of the excellent vision model architecture till date. The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
+
+<p align="center">
+<a href="https://miro.medium.com/max/940/1*3-TqqkRQ4rWLOMX-gvkYwA.png"><img src="https://miro.medium.com/max/940/1*3-TqqkRQ4rWLOMX-gvkYwA.png" align="center" ></a>
+</p>
+
+### Results
+
+<p align="center">
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion3.png"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/confusion3.png" align="center"></a>
+</p>
+
+
+|               | precision     |recall  |f1-score |support|
+| ------------- |:-------------:| :-----: |:-----:   |-----:   |
+|  NEGATIVE     | 1.00          | 1.00   |  1.00   |  6082 |
+| POSITIVE      | 1.00          |  1.00  |  1.00   |    5918   |
+| accuracy      | 1.00          |  1.00  |  1.00     |    12000   |
+
+Test Loss| Test Accuracy
+--- | ---
+0.00840 | 99.77%
