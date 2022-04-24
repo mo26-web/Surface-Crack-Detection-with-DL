@@ -7,6 +7,5 @@ The datasets contains images of various concrete surfaces with and without crack
 
 This dataset is taken from the website Mendeley Data - Crack Detection, contributed by Çağlar Fırat Özgenel.
 
-*** test ***
-""" test """
-''' test '''
+> Özgenel, Çağlar Fırat (2019), “Concrete Crack Images for Classification”, Mendeley Data, v2
+http://dx.doi.org/10.17632/5y9wdsg2zt.2
