@@ -101,9 +101,7 @@ Test Loss| Test Accuracy
 ## VGG19 architecture
 VGG-19 architecture is very much similar to VGG-16. We have 3 additional convolutional layers for the VGG-16 network.
 <p align="center">
-<a href="
-https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG"><img src="
-https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG" align="center" ></a>
+<a href="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true"><img src="https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG?raw=true" align="center" ></a>
 </p>
 
 ### Results
