@@ -80,6 +80,10 @@ DenseNet (Dense Convolutional Network) is an architecture that focuses on making
 <p align="center">
 <a href="https://miro.medium.com/max/690/1*brDId2lZdG5JGWgeQtsxDw.png"><img src="https://miro.medium.com/max/690/1*brDId2lZdG5JGWgeQtsxDw.png" align="center" width="520" ></a>
 </p>
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/mo26-web/Surface-Crack-Detection-with-DL/main/images/densenet121.JPG"><img src="https://raw.githubusercontent.com/mo26-web/Surface-Crack-Detection-with-DL/main/images/densenet121.JPG" align="center" width="520" ></a>
+</p>
  
 ### Results
 
