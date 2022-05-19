@@ -101,7 +101,9 @@ Test Loss| Test Accuracy
 ## VGG19 architecture
 VGG-19 architecture is very much similar to VGG-16. We have 3 additional convolutional layers for the VGG-16 network.
 <p align="center">
-<a href="[https://www.researchgate.net/profile/Clifford-Yang/publication/325137356/figure/fig2/AS:670371271413777@1536840374533/llustration-of-the-network-architecture-of-VGG-19-model-conv-means-convolution-FC-means.jpg](https://d3i71xaburhd42.cloudfront.net/8bd178f4d32a1108565fb62dde562332a19f6684/3-Figure2-1.png)"><img src="[https://www.researchgate.net/profile/Clifford-Yang/publication/325137356/figure/fig2/AS:670371271413777@1536840374533/llustration-of-the-network-architecture-of-VGG-19-model-conv-means-convolution-FC-means.jpg](https://d3i71xaburhd42.cloudfront.net/8bd178f4d32a1108565fb62dde562332a19f6684/3-Figure2-1.png)" align="center" ></a>
+<a href="
+https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG"><img src="
+https://github.com/mo26-web/Surface-Crack-Detection-with-DL/blob/main/images/vgg19.JPG" align="center" ></a>
 </p>
 
 ### Results
