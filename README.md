@@ -78,7 +78,7 @@ Test Loss| Test Accuracy
 DenseNet (Dense Convolutional Network) is an architecture that focuses on making the deep learning networks go even deeper, but at the same time making them more efficient to train, by using shorter connections between the layers. DenseNet-121 has 120 Convolutions and 4 AvgPool. All layers i.e. those within the same dense block and transition layers, spread their weights over multiple inputs which allows deeper layers to use features extracted early on.
 
 <p align="center">
-<a href="https://www.researchgate.net/profile/Noha-Radwan-3/publication/334170752/figure/fig5/AS:776225345785857@1562077952441/A-schematic-illustration-of-the-DenseNet-121-architecture-82.png"><img src="https://www.researchgate.net/profile/Noha-Radwan-3/publication/334170752/figure/fig5/AS:776225345785857@1562077952441/A-schematic-illustration-of-the-DenseNet-121-architecture-82.png" align="center" width="520" ></a>
+<a href="https://miro.medium.com/max/690/1*brDId2lZdG5JGWgeQtsxDw.png"><img src="https://miro.medium.com/max/690/1*brDId2lZdG5JGWgeQtsxDw.png" align="center" width="520" ></a>
 </p>
  
 ### Results
